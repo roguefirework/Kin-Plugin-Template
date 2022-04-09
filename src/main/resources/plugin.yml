@@ -1,0 +1,7 @@
+name: Quinns-Plugin
+version: @version@-@apiversion@
+description: Quinns plugin
+authors: [Kin Kozy]
+website: https://www.youtube.com/watch?v=dQw4w9WgXcQ
+
+main: addressToYourMainFile
